@@ -12,6 +12,7 @@ export function MainIndex() {
           <span className="mr-2">🚀</span>
           <a href="https://github.com/AdirGamil/react-tailwindcss-starter">Get Started</a>
         </button>
+        <p className="mt-4 text-gray-600">By Adir Gamil</p>
       </div>
     </div>
   )
